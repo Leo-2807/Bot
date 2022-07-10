@@ -1,4 +1,4 @@
 # Bot
 
 ## Discription
-A Simple bot made using python to send wattsapp messages
+A bot to send jokes and memes on discord
